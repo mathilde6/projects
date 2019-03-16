@@ -1,6 +1,4 @@
-# projects
-some projects of 1st semester 
-
+Readme
 
 1. Feature Engineer
 It is a good way to use color histogram to observe the color distribution and it is not sensible to the direction and size of the image.Then I resized the image to 64x64 and normalized the histogram features into pure values in order to add weights.
